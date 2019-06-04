@@ -1,2 +1,2 @@
-# Kaggle_eyeTest_BGU
+# Kaggle eyeTest
 Private Kaggle contest of eye test predictions
