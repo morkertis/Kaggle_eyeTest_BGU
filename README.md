@@ -4,7 +4,7 @@
 This work includes:
  - Data exploration
  - Data Preprocessing 
-    - Preprocessing 
+    - Preprocessing (include lots of missing data)
     - Normalization 
-    - Include Missing data Imbalance data manipulation
+    - Imbalance data manipulation
  - Multiple Models
